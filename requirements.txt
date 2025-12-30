@@ -1,5 +1,7 @@
 streamlit
+pypdf
 pandas
+yfinance
 plotly
-scikit-learn
-openpyxl
+transformers
+torch
