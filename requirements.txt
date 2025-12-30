@@ -5,3 +5,5 @@ yfinance
 plotly
 transformers
 torch
+matplotlib
+jinja2
